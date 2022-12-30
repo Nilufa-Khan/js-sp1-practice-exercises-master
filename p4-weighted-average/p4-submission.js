@@ -12,6 +12,7 @@ function quizesPercentScore(assignmentWeight , assignmentScore){
 function midTermPercentScore(assignmentWeight , assignmentScore){
     return (assignmentWeight/100) * assignmentScore;
 }
+
 function finalExamPercentScore(assignmentWeight , assignmentScore){
     return (assignmentWeight/100) * assignmentScore;
 }
