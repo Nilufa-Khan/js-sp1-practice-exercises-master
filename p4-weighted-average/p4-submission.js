@@ -2,6 +2,7 @@
 function assignmentPercentScore(assignmentWeight , assignmentScore){
     return (assignmentWeight/100) * assignmentScore;
 }
+
 function projecttPercentScore(assignmentWeight , assignmentScore){
     return (assignmentWeight/100) * assignmentScore;
 }

@@ -6,6 +6,7 @@ let days;
 
 switch(month){
     case 1:
+
         days=31;
         break;
     case 2:
