@@ -18,6 +18,7 @@ function finalExamPercentScore(assignmentWeight , assignmentScore){
 let assignment = assignmentPercentScore(10,97);
 let projects = projecttPercentScore(35,82);
 let quizes = quizesPercentScore(10,60);
+
 let mid = midTermPercentScore(15,75);
 let finalExm = finalExamPercentScore(30,80);
 console.log("Weights"+"      "+"% Value of SCore")
